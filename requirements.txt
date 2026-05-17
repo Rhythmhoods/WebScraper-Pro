@@ -1,7 +1,0 @@
-flask
-requests
-beautifulsoup4
-googlesearch-python
-openpyxl
-lxml
-gunicorn
